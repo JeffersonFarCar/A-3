@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Cuenta">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center_horizontal">
+            <View
+                android:id="@+id/divider7"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:background="@color/white" />
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:text="VISIÓN GENERAL"
+                android:gravity="center_horizontal"
+                android:textSize="25dp" />
+            <View
+                android:id="@+id/divider8"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:background="@color/white" />
+
+            <ImageButton
+                android:id="@+id/imageButton8"
+                style="@style/imageGeneral"
+                android:background="@color/white"
+                app:srcCompat="@drawable/imagen_kpop2" />
+            <View
+                android:id="@+id/divider9"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:background="@color/white" />
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:text="María"
+                android:gravity="center_horizontal"
+                android:textSize="20dp" />
+
+            <View
+                android:id="@+id/divider10"
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:background="@color/white" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:text="maría_love@gmail.com"
+                android:gravity="center_horizontal"
+                android:textSize="20dp" />
+
+            <View
+                android:id="@+id/divider11"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:background="@color/white" />
+            <ImageButton
+                android:id="@+id/imageButton9"
+                style="@style/imageGeneral"
+                android:background="@color/colorPrimary"
+                android:src="@drawable/imagen_kpop4"/>
+
+            <View
+                android:id="@+id/divider13"
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:background="@color/white" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:text="HISTORIAL DE REPRODUCCIÓN"
+                android:gravity="center_horizontal"
+                android:textSize="25dp" />
+
+
+            <View
+                android:id="@+id/divider14"
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:background="@color/white" />
+            <ImageButton
+                android:id="@+id/imageButton6"
+                style="@style/imageGeneral"
+                android:background="@color/colorPrimary"
+                app:srcCompat="@drawable/imagen_kpop3" />
+            <View
+                android:id="@+id/divider15"
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:background="@color/white" />
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:text="SIGUIENDO"
+                android:gravity="center_horizontal"
+                android:textSize="25dp" />
+
+            <View
+                android:id="@+id/divider16"
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:background="@color/white" />
+
+            <ImageButton
+                android:id="@+id/imageButton7"
+                style="@style/imageGeneral"
+                android:background="@color/colorPrimary"
+                android:onClick="onClick"
+                app:srcCompat="@drawable/imagen_kpop4" />
+            <View
+                android:id="@+id/divider17"
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:background="@color/white" />
+        </LinearLayout>
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

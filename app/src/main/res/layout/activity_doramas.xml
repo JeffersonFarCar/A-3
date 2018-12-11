@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Doramas">
+
+    <HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:fillViewport="true"
+        android:scrollbars="none">
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal"
+            android:layout_gravity="center_horizontal">
+
+            <Button
+                android:id="@+id/inicio"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Doramas"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="10dp"/>
+
+            <Button
+                android:id="@+id/informacion"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Celebridades"
+                android:layout_marginRight="10dp"/>
+
+            <Button
+                android:id="@+id/lee"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Kpop"
+                android:layout_marginRight="10dp"/>
+        </LinearLayout>
+    </HorizontalScrollView>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="433dp"
+        android:layout_marginTop="8dp"
+        android:scrollbars="none"
+        android:layout_marginBottom="8dp"
+        android:background="@android:color/background_light"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.87">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.497">
+
+            <View
+                android:id="@+id/divider4"
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:background="@android:color/background_light" />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:text="DORAMAS POPULARES"
+                android:textSize="20dp" />
+
+            <View
+                android:id="@+id/divider6"
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:background="@android:color/background_light" />
+
+            <ImageButton
+                android:id="@+id/imnotarobot"
+                style="@style/imageGeneral"
+                android:adjustViewBounds="false"
+                android:background="@color/colorPrimary"
+                android:cropToPadding="false"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@drawable/imagen_dorama1" />
+
+            <Button
+                android:id="@+id/button"
+                style="@style/imageGeneral"
+                android:layout_height="wrap_content"
+                android:background="@color/colorPrimary"
+                android:text="I'm not a Robot" />
+
+            <View
+                android:id="@+id/divider"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@android:color/background_light" />
+
+            <ImageButton
+                android:id="@+id/whileyouaresleeping"
+                style="@style/imageGeneral"
+                android:background="@color/colorPrimary"
+                app:srcCompat="@drawable/sleep"/>
+
+            <Button
+                android:id="@+id/button1"
+                style="@style/imageGeneral"
+                android:layout_height="wrap_content"
+                android:background="@color/colorPrimary"
+                android:text="While you were sleeping" />
+
+            <View
+                android:id="@+id/divider1"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@android:color/background_light" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:text="     RECOMENDACIONES PARA TI"
+                android:textSize="20dp" />
+
+            <View
+                android:id="@+id/divider5"
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:background="@android:color/background_light" />
+
+            <ImageButton
+                android:id="@+id/imageButton3"
+                style="@style/imageGeneral"
+                android:background="@color/colorPrimary"
+                app:srcCompat="@drawable/imagen_dorama3" />
+
+            <Button
+                android:id="@+id/button2"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:background="@color/colorPrimary"
+                android:text="Descendants of the Sun" />
+
+            <View
+                android:id="@+id/divider2"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@android:color/background_light" />
+
+            <ImageButton
+                android:id="@+id/imageButton4"
+                style="@style/imageGeneral"
+                android:background="@color/colorPrimary"
+                android:onClick="onClick"
+                app:srcCompat="@drawable/imagen_dorama4" />
+
+            <Button
+                android:id="@+id/button3"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:background="@color/colorPrimary"
+                android:onClick="onClick"
+                android:text="Who are you : School 2015" />
+
+            <View
+                android:id="@+id/divider3"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@android:color/background_light" />
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

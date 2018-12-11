@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PerfilFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="5dp"
+        android:layout_gravity="center_horizontal">
+        <ImageView
+            android:layout_marginLeft="50dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_width="140dp"
+            android:layout_height="100dp"
+            android:src="@drawable/lee"/>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_gravity="center">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:text="Erick Quispe Pari"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:text="equispepari.@unsa.edu.pe"/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp">
+
+        <Button
+            android:id="@+id/premium"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:background="@color/colorPrimary"
+            android:textColor="@color/white"
+            android:text="@string/perfil_btn1" />
+
+        <Button
+            android:layout_marginTop="8dp"
+            android:background="@color/colorPrimary"
+            android:textColor="@color/white"
+            android:id="@+id/traducir"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="@string/perfil_btn2"/>
+
+        <Button
+            android:layout_marginTop="8dp"
+            android:background="@color/colorPrimary"
+            android:textColor="@color/white"
+            android:id="@+id/tendencias"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="@string/perfil_btn3"/>
+
+        <Button
+            android:layout_marginTop="8dp"
+            android:background="@color/colorPrimary"
+            android:textColor="@color/white"
+            android:id="@+id/usuarios"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="@string/perfil_btn4"/>
+
+        <Button
+            android:layout_marginTop="8dp"
+            android:background="@color/colorPrimary"
+            android:textColor="@color/white"
+            android:id="@+id/traducciones"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="@string/perfil_btn5"/>
+    </LinearLayout>
+</FrameLayout>

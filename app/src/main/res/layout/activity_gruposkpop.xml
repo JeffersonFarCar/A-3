@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Gruposkpop">
+
+    <HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:fillViewport="true"
+        android:scrollbars="none">
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/inicio"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Doramas"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="10dp"/>
+
+            <Button
+                android:id="@+id/informacion"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Celebridades"
+                android:layout_marginRight="10dp"/>
+
+            <Button
+                android:id="@+id/lee"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Lee Jong Suk"
+                android:layout_marginRight="10dp"/>
+
+            <Button
+                android:id="@+id/suzy"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Suzy"
+                android:layout_marginRight="10dp"/>
+
+            <Button
+                android:id="@+id/bts"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="bts"
+                android:layout_marginRight="10dp"/>
+
+            <Button
+                android:id="@+id/shinee"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="shinee"
+                android:layout_marginRight="10dp"/>
+        </LinearLayout>
+    </HorizontalScrollView>
+
+
+    <ScrollView
+        android:scrollbars="none"
+        android:layout_width="match_parent"
+        android:layout_height="433dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        android:background="@android:color/background_light"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.87">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.497">
+
+            <View
+                android:id="@+id/divider4"
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:background="@android:color/background_light" />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:text="     BANDAS MÁS POPULARES"
+                android:textSize="20dp" />
+
+            <View
+                android:id="@+id/divider6"
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:background="@android:color/background_light" />
+
+            <ImageButton
+                android:id="@+id/bts1"
+                android:layout_width="250dp"
+                android:layout_height="250dp"
+                android:scaleType="fitCenter"
+                android:background="@color/colorPrimary"
+                app:srcCompat="@drawable/bts" />
+
+            <Button
+                android:id="@+id/bts2"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:background="@color/colorPrimary"
+                android:text="BTS" />
+
+            <View
+                android:id="@+id/divider1"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@android:color/background_light" />
+
+            <ImageButton
+                android:id="@+id/shinee1"
+                style="@style/imageGeneral"
+                android:adjustViewBounds="false"
+                android:background="@color/colorPrimary"
+                android:cropToPadding="false"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@drawable/imagen_kpop1" />
+
+            <Button
+                android:id="@+id/shinee2"
+                style="@style/imageGeneral"
+                android:layout_height="wrap_content"
+                android:background="@color/colorPrimary"
+                android:text="SHINee" />
+
+            <View
+                android:id="@+id/divider"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@android:color/background_light" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:text="     BANDAS DEBUTANTES"
+                android:textSize="20dp" />
+
+            <View
+                android:id="@+id/divider5"
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:background="@android:color/background_light" />
+
+            <ImageButton
+                android:id="@+id/imageButton3"
+                style="@style/imageGeneral"
+                android:background="@color/colorPrimary"
+                app:srcCompat="@drawable/imagen_kpop3" />
+
+            <Button
+                android:id="@+id/button2"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:background="@color/colorPrimary"
+                android:text="KARD" />
+
+            <View
+                android:id="@+id/divider2"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@android:color/background_light" />
+
+            <ImageButton
+                android:id="@+id/imageButton4"
+                style="@style/imageGeneral"
+                android:background="@color/colorPrimary"
+                app:srcCompat="@drawable/imagen_kpop4" />
+
+            <Button
+                android:id="@+id/button3"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:background="@color/colorPrimary"
+                android:text="G-IDLE" />
+
+            <View
+                android:id="@+id/divider3"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@android:color/background_light" />
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

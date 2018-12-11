@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dream</string>
+    <string name="title_activity_suzy">Suzy</string>
+    <string name="hello_blank_fragment">a</string>
+    <string name="info_activity">Informação</string>
+    <string name="can_activity">Músicas</string>
+    <string name="cu_activity">Curiosidades</string>
+    <string name="tra_acitiity">Jobs</string>
+    <string name="vid_activity">"Vídeos "</string>
+
+    <!--BTS-->
+    <string name="info_bts">Nomes: BTS (Bangtan Boys; Além do cenário) Internacional.\nPor que BTS ?: É a sigla de Bangtan Boys que significa Meninos à prova de balas.\nA partir de 4 de julho de 2017, o significado Beyond The Scene foi adicionado. Que faz referência ao jovem que abre a porta e caminha em direção ao sonho.\nOrigem: Coreia do Sul\nNúmero de membros: 7 meninos.\nNome Oficial do Fã-Clube: A.R.M.Y.\nPor que A.R.M.Y?: Adorável Representante M.C para a Juventude. O termo M.C para rappers significa mestre de cerimônia. Um termo especial para rappers de alto nível, através dele, significa que somos especiais para eles porque somos seus MCs e, ao mesmo tempo, ARMY, que significa exército em inglês, já que de acordo com os membros, seus fãs são o exército. que fielmente, e sem descanso, eles lutam por eles.\nCor oficial: preto e branco.</string>
+    <string name="a2">" Jimin\nVocalista e dançarino"</string>
+    <string name="bts_inte">Membros</string>
+    <string name="a3">Jin\nVocalista e dançarino</string>
+    <string name="a1">" J-Hope\nRapper, vocalista e dançarino"</string>
+    <string name="a4">" Jungkook\nVocalista, dançarina e maknae"</string>
+    <string name="a5">" Rm\nLíder, rapper e dançarino"</string>
+    <string name="a6">" Suga\nRapper e dançarina"</string>
+    <string name="a7">" Kim Taehyung\nVocalista e dançarina"</string>
+    <string name="bts_curiosidades">BTS curioso fatos</string>
+    <string name="btsc1">Antes de debutar, eles já tinham 2.000 fãs inscritos em seu fã-café.</string>
+    <string name="btsc2">"No MV de Jo Kwon eu sou o único que você pode ver J-Hope e Jungkook dançando. Jin, V e SUGA também aparecem. Jimin participou do vídeo Party (XXO) do ex-grupo Big Hit, GLAM. "</string>
+    <string name="btsc3">Para o seu reality show, American Hustle Life, eles viajaram para a cidade de Los Angeles, nos Estados Unidos. Eles aprenderam sobre Hip Hop de artistas como Coolio, Dante Evans, Nate Walka, Tony Jones, Warren G, Iris Stevenson, etc.</string>
+    <string name="btsc4">Sua música de estréia No More Dream foi escrita em 2012 por RM, SUGA e um dos ex-membros, Donghyuk (Supreme Boi). As letras foram reescritas por eles mais de 22 vezes.</string>
+    <string name="btsc5">A música I (I Like It) do seu álbum de estréia foi escrita por RM, SUGA e J-Hope em 40 minutos.</string>
+    <string name="btsc6">Seu single de estréia 2 COOL 4 SKOOL contém duas faixas escondidas ou músicas escondidas que não aparecem nas listas de músicas oficiais ou no site oficial da BigHit Entertainment, essas músicas são Skit: On the Start e 길 (Road / Path) para o single com um total de 9 músicas.</string>
+    <string name="btsc7">Todos os anos, em comemoração ao seu aniversário, o grupo organiza um programa especial de rádio chamado BTS 꿀 FM 06.13.</string>
+
+    <!--Lee-->
+    <string name="lee_info">" Nome: Lee Jong Suk\nProfissão: Ator, Modelo, MC\nData de Nascimento: 14-Setembro-1989\nLugar de Nascimento: Suwon, Província de Gyeonggi, Coreia do Sul\nPeso: 65Kg\n Altura: 186cm\n Tipo de Sangue: A\nSigno do Zodiacal: Virgem\nFamília: Pais e Irmãos\nEducação: Yong Ma Escola Elementar, Yongdong Escola Secundária, Escola Secundária Nacional de Artes Tradicionais, Escola Secundária Yangjae\nUniversidade Konkuk: Cinema\nHobbies : Jogos, Basquete, Piano\nEspecialidade: Taekwondo, canções"</string>
+    <string name="cel_rela">Celebridades Relacionadas</string>
+    <string name="su_co">Suzy\nCoStar</string>
+    <string name="han_co">Han Hyo Joo\nCoStar</string>
+    <string name="park_co">Park Shin Hye\nCoStar</string>
+    <string name="kim_co">Kim Woo Bin\nCoStar</string>
+    <string name="lee_curiosidades">Fatos interessantes de Lee Jong Suk</string>
+    <string name="lee_c1">" Nomeado embaixador honorário do turismo na Coreia em 25 de julho de 2017. Ele filmou 8 anúncios promovendo diferentes lugares na Coréia."</string>
+    <string name="lee_c2">Em 10 de agosto de 2017, ela recebeu uma notificação para fazer parte do exército, adiou-a para terminar seus estudos e promover seu filme VIP e o drama While You Were Sleeping.</string>
+    <string name="lee_c3">Em agosto de 2017, Jong Suk alcançou 10 milhões de seguidores pelo Instagram, sendo o primeiro ator coreano com tantos seguidores.</string>
+    <string name="lee_c4">"Em 26 de março de 2018, foi relatado que após o término de seu contrato com a YG Entertainmetn em 31 de março, ele ingressará na YNK Entertaiment. "</string>
+    <string name="lee_c5">Em 2 de abril de 2018, foi relatado que Lee Jong Suk estabeleceu sua própria agência. A-man, em associação com a YNK Entertaiment.</string>
+
+    <!--Suzy-->
+    <string name="su_info">Nome do Artista: Suzy\nNome Real: Bae Su Ji\nProfissão: Cantor, Compositor, Dançarino, Modelo, Atriz, MC\nData de Nascimento: 10-Outubro-1994\nLugar de Nascimento: Gwangju, Coreia do Sul\nPeso : 47Kg\nAltura: 168cm\\nTipo sanguíneo: AB\nSigno do zodíaco: Libra\nFamília: Pais, irmã mais velha e irmão mais novo\nAgência: JYP Entertainment\nEx-Kpop Grupo: miss A (2010-2017)\nPosição: Vocalista, Dancer e Maknae\nCor favorita: rosa</string>
+    <string name="suzy_curiosidades">Fatos curiosos de Suzy</string>
+    <string name="su_c1">Para a apresentação de seu mini-álbum solo, Yes? No, Suzy está fazendo um documentário, no qual ele mostra parte de sua vida e de sua casa, um programa que é apresentado através do Dingo.</string>
+    <string name="su_c2">" Em 16 de novembro de 2017, foi anunciado que Suzy e Lee Min Ho encerraram sua relação de quase 3 anos, JYP e MYM Entertaiment confirmaram esta notícia."</string>
+    <string name="su_c3">Suzy terá seu primeiro comebakc em 29 de janeiro como solista com um mini-álbum. Mas primeiro uma música de pré-lançamento será lançada em 22 de janeiro. Para esse retorno, viajo para Los Angeles no dia 1º de janeiro, onde foram gravados 4 videoclipes.</string>
+    <string name="su_c4">Está classificado em 51 das 100 faces mais bonitas do mundo em 2017 pela revista TC Candler.</string>
+    <string name="su_c5">Em 8 de março de 2018, um suposto relacionamento com o ator Lee Dong Wook foi relatado, depois JYP confirmou que eles estão no processo de conhecer uns aos outros.</string>
+    <string name="su_c6">Suzy é a primeira artista coreana a ter sua própria figura de cera EB, o Madame Tussaunds Museum, em Hong Kong.</string>
+    <string name="su_c7">Em 2 de julho de 2018, a JYP Entertainment confirmou que Lee Dong Wook e Suzy encerraram sua relação de apenas 4 meses, após confirmar oficialmente.</string>
+    <string name="lee_co">Lee Jong Suk\nCoStar</string>
+    <string name="gong_co">Gong Yoo\nCoStar</string>
+    <string name="kimsoo_co">Kim Soo Hyun\nCoStar</string>
+
+    <!--SHINee-->
+    <string name = "shinee_info"> Nome: SHINee (Internacional) \nPor que "SHINee"?: "Pessoas que recebem e emitem luz" (isto é, elas brilham sozinhos). É a palavra BRILHANTE (brilhante) com dois "E" no final para dar esse significado de pessoas que recebem e emanam luz. \nOrigem: Coreia do Sul. \nNúmero de Membros: 4 Boys \nNome do Fanclub Oficial: SHAWOL \nPor o que "SHAWOL"?: Ele vem da abreviação de SHINee World. \nCor oficial: verde azulado perolado. \nAgência: SM Entertainment (Coreia do Sul). Universal Music (Japão).</string>
+    <string name = "sh_jong"> Jonghyun \nVocalista e dançarino </string>
+    <string name = "sh_key"> Chave \nVocalista, rapper e dançarino </string>
+    <string name = "sh_minho"> Minho \nRapper, vocalista e dançarino </string>
+    <string name = "sh_onew"> Onew \nCartazes, vocalista, dançarino </string>
+    <string name = "sh_taemin"> Taemin \nBailarín, vocalista e Maknae </string>
+    <string name="sh_curiosidades">"Curiosidades do SHINee "</string>
+    <string name = "sh_c1"> Foi o único grupo coreano a aparecer nos estúdios de gravação "Abbey Road Studios" na Inglaterra. (Alguns artistas que se apresentaram lá incluem Pink Floyd, Beatles, Stevie Wonder, Coldplay, Adele, U2, Red Hot Chili Peppers, Queen, Michael Jackson, entre muitos outros). </string>
+    <string name = "sh_c2"> SHINee quebrou recordes na lista de músicas Oricon do Japão, sendo a primeira vez em 44 anos de Oricon, em que um artista estrangeiro (solo incluído) lançados três singles diferentes, e os três eles serão classificados no Top 3. As músicas do hit são "Replay", "Juliette" e mais tarde "Lucifer". </string>
+    <string name = "sh_c3"> Jonghyun em todos Concert SHINee Mundial (SWC) interpretou a música Alejandro Sanz "Y Si Fuera Ella" (incluído no álbum "SHINee World") versionándola o idioma coreano. </string>
+    <string name = "sh_c4"> Na música "Señorita" (do mini-álbum "ROMEO") eles falam espanhol. </string>
+    <string name = "sh_c5"> SHINee foi acusado de plágio pela canção Corbin Bleu "Deal With It", que estava coberta por eles "Juliette" (2009), mas na realidade a SM comprou os direitos para esta canção. </string>
+    <string name = "sh_c6"> Eles estavam no Hello Baby! (2010), cuidando do pequeno Jung Yoo Geun. Em que Onew disse que preferia o frango Yoo Geun, porque ele ama frango. </string>
+    <string name = "sh_c7"> Eles participaram como jurados no K-Pop Cover Dance Festival 2011, realizado em Moscou (Rússia). </string>
+
+    <!--While were you sleeping-->
+    <string name = "sleep_info"> Jung Jae Chan (Lee Jong Suk), é um promotor novato, ignorado em seu escritório por certos mal-entendidos, mas ele diz o que pensa sem medo. Apesar disso, ele tem uma vontade de investigar e uma forte crença na justiça. Nam Hong Joo (Suzy), é uma jornalista capaz de prever o futuro nos sonhos, vendo até a própria morte. Sua habilidade não fez mais do que sempre trazer problemas, mas tudo muda para atender Jae Chan, que também terá esse tipo de sonhos. </string>
+    <string name = "sleep_elenco"> Membros do elenco </string>
+    <string name = "sleep_ele1"> Jung Hae como Jan Woo Tak \nEstado Remoto </string>
+    <string name = "sleep_ele2"> Lee Sang Yeob como Lee You Beom \nSub Secundário </string>
+    <string name = "sleep_ele3"> Lee Jong Suk \n Jun Jae Chna \nFaça a maior festa </string>
+    <string name = "sleep_ele4"> Suzy como Nam Hng Koo \n elenco principal </string>
+    <string name = "sleep_ep1"> Episódio 1 (Po) </string>
+    <string name = "sleep_ep2"> Episódio 2 (Po) </string>
+    <string name = "sleep_ep3"> Episódio 3 (Po) </string>
+    <string name = "sleep_ep4"> Episódio 4 (Po) </string>
+    <string name = "sleep_ep5"> Episódio 5 (Po) </string>
+    <string name = "sleep_ep6"> Episódio 6 (Po) </string>
+    <string name = "sleep_recomendados"> Clipes Recomendados </string>
+    <string name = "sleep_av1"> Avanços do episódio (5) </string>
+    <string name = "sleep_av2"> Você esqueceu sua linha </string>
+    <string name = "sleep_av3"> Episódio 4 do Ghost </string>
+    <string name = "sleep_thebest"> Os melhores momentos </string>
+    <string name = "sleep_curiosidades"> Dados curvos enquanto você estava dormindo </string>
+    <string name = "sleep_cantidad"> Episódios | 16 </string>
+    <string name = "sleep_c1"> Este é o primeiro papel principal de Kim Woo Bin. </string>
+    <string name = "sleep_c2"> É a segunda vez que Kim Woo Bin, Im Joo Eun e Jung Dong Hwang trabalham juntos, a primeira vez foi no drama "The Heirs". </string>
+    <string name = "sleep_c3"> Esta é a segunda vez que Im Joo Hwan e Kim Ki Bang são colegas, a primeira vez foi em "Boys Before Flowers". </string>
+    <string name = "sleep_c4"> É a segunda vez que Kim Woo Bin e Yoo Oh Seung trabalham juntos, sendo a primeira vez no filme \'Friend2 \'. </string>
+    <string name = "sleep_c5"> Segunda vez Suzy, Kim Ki bang e Jin Kyung se encontram, a primeira vez foi no drama \'Gu Family Book\'. </string>
+    <string name = "sleep_c6"> Esta é a segunda vez que Im Joo Hwang e Im Joo Eun são colegas, nós os vemos juntos pela primeira vez em \'What\'s up? \'. </string>
+    <string name = "sleep_c7"> Desta vez vemos Im Joo Hwan e Kim Woo Bin trabalhando juntos pela segunda vez, lembre-se que o primeiro foi no filme \'The Thecnicians\'. </string>
+    <string name = "sleep_c8"> As filmagens deste drama começaram em 26 de novembro de 2015, completadas antes de serem lançadas no ar. tornando-se o segundo KBS em que isso acontece, "Descendants of the Sun", ficou em primeiro lugar. </string>
+
+    <!--I'm not a robot-->
+    <string name = "robot_info"> Kim Min Kyu (Yoo Seung Ho), gênio e principal acionista da KM Financial, a maior empresa financeira do país. Ele alega não ter tido namorada e ser "alérgico" aos humanos. Assim, Jo Ji Ah (Chae Soo Bin), empreendedor de sucesso e gênio da engenharia mecânica, finge ser um robô (Aji-3), criado pelo professor Hong Baek Kyung (Uhm Ki Joon). Vendo você envolto em um triângulo amoroso. </string>
+    <string name = "robot_uhm"> Uhm Ki Joon \nHong Baek \nFaça Principal </string>
+    <string name = "robot_hwang"> Hwang Seung Eon \ncomo Ye Ri A\nFaça Secundária</string>
+    <string name = "robot_chae"> Chae Soo Bin \ncomo Jo Ji Ah / AJI-3 \nFaça Principal </string>
+    <string name = "robot_yoo"> Yoo Seung\ncomo Kim Min Kyu \nFaça Principal </string>
+    <string name = "robot_episodios"> Episódios | 25 </string>
+    <string name = "robot_funny"> Eu não sou um robô: cenas engraçadas </string>
+    <string name = "robot_ava1"> Avança o episódio 6 </string>
+    <string name = "robot_ava2"> Você notou? </string>
+    <string name = "robot_ava3"> Erros do episódio 5 </string>
+    <string name = "robot_curiosidades"> Curiosidades do não sou robô </string>
+    <string name = "robot_cu1"> O roteirista Park Hye Ryun já havia trabalhado com os dois protagonistas do drama; com Lee Jong Suk em Pinóquio e Eu ouço sua voz e com Suzy em Dream High. </string>
+    <string name = "robot_cu2"> A primeira leitura do script foi feita em 20 de janeiro de 2017. </string>
+    <string name = "robot_cu3"> As filmagens começaram em fevereiro e terminaram em 27 de julho de 2017. </string>
+    <string name = "robot_cu4"> Os atores Lee Jong Suk, Shin Jae Ha Hoe Yeo Min Sung Wook Hyun e haviam trabalhado juntos no drama Pinocchio. </string>
+    <string name = "robot_cu5"> Os atores Shin Jae Ha, Hwang Young Min Hee e Sung Wook haviam trabalhado juntos no drama Gogh, The Starry Night. </string>
+    <string name = "robot_cu6"> atriz Kim So Hyun tinha trabalhado com Lee Jong Suk em Eu ouço sua voz, com Shin Jae Ha e Hwang Jovem Hee na página Turner e Jung Hae In em Goblin, com excepção desta por último, dramas escritos pelo mesmo escritor </string>
+    <string name = "robot_cu7"> Esta é a terceira vez que o ator Nam Da Reum interpreta a versão jovem de Lee Jong Suk, a primeira vez foi no filme sem respiração e drama Pinóquio. </string>
+    <string name = "robot_cu8"> No Capítulo 6, o caso dos gatos assassino serial, refere-se a um caso real ocorrido na França por volta de 2016. Onde também cerca de 100 gatos foram envenenados por uma pessoa. </string>
+
+    <!--Categorias-->
+    <string name="categoria_1">Doramas</string>
+    <string name="categoria_2">Celebridades</string>
+    <string name="categoria_3">KPOP</string>
+
+    <!--perfil-->
+    <string name="perfil_btn1">PREMIUM DE DEVOLUÇÃO</string>
+    <string name="perfil_btn2">TRADUZIR</string>
+    <string name="perfil_btn3">TENDÊNCIAS</string>
+    <string name="perfil_btn4">USUÁRIOS</string>
+    <string name="perfil_btn5">VER TRADUÇÕES</string>
+
+    <string name="titulo_estandar">Standard</string>
+    <string name="titulo1_premium">O Maior Sucesso ao Melhor Preço</string>
+    <string name="titulo2_premium">- HD e Sem Anúncios</string>
+    <string name="titulo3_premium">- Acesso Ilimitado a Todos os Programas</string>
+    <string name="titulo4_premium">  Disponíveis na sua Região</string>
+    <string name="titulo5_premium">- Não Espere! Veja Todas as New Doramas</string>
+    <string name="titulo6_premium">  Imediatamente</string>
+    <string name="boton_Suscribete">Inscreva-se Agora</string>
+
+    <string name="boton_Editar">Editar</string>
+    <string name="boton_AgregarTraduccion">Adicionar Mais Traduções</string>
+
+    <string name="formulario_Inicio">Lar</string>
+    <string name="formulario_Fin">Final</string>
+    <string name="formulario_Traduccion">Tradução</string>
+    <string name="boton_Enviar">Enviar</string>
+
+    <string name="encabezado_Tendencia">Nome\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tVisitas</string>
+
+    <string name="encabezado_Usuarios">Mail\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tMobil\t\tPC</string>
+</resources>
